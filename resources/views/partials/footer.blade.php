@@ -1,0 +1,1 @@
+ <p>&copy; 2019 All right received || E-commerce</p>

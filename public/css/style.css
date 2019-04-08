@@ -1,0 +1,105 @@
+
+.img {
+    
+    max-width: 250px;
+}
+.widget{
+	
+    margin-top: 20px;
+    margin-left: 30px;
+}
+	
+.single-image {
+    margin-bottom: 10px;
+}
+
+.single-item{
+	margin-bottom: 6px;
+}
+
+/* sidebar */
+.sub a {
+    padding-left: 40px;
+    text-transform: uppercase;
+}
+.list-group a {
+    text-transform: uppercase;
+}
+.margin-top{
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+/* footer */
+footer p{
+	background-color: gray;
+	text-align: center;
+	font-weight: 0.8em;
+	font-size: 15px;
+	padding: 15px;
+	color: #fff;
+
+}
+
+/* menu  */
+.navbar-light .navbar-brand {
+    color: rgb(0, 2, 27);
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link {
+     color: rgba(17, 16, 16, 0.94);
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.navbar-nav li a:hover {
+	
+	transition: 0.3s;
+	color: white!important;
+	
+	background-color: #3c61e1;
+	border-radius: 5px;
+
+
+}
+.navbar-nav li  a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.list-group-item-action:focus, .list-group-item-action:hover {
+    color: white;
+    background-color: #1584f3!important;
+}
+
+
+.bg-light {
+    background-color: #b9c8d6!important;
+}
+.btn-outline-success {
+    color: #090909;
+    border-color: #319769;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+
+.card {
+  
+  transition: 0.3s;
+ 
+  border-radius: 15px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
+
+
+
+
+  
